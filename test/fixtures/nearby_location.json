@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "id": 8,
+            "name": "Klinik Bersalin Ibu Dan Anak Mahkota Bunda Banjarmasin",
+            "address": "Seberang Mesjid, Kec. Banjarmasin Tengah, Kota Banjarmasin, Kalimantan Selatan 70122",
+            "lat": -3.314884,
+            "lng": 114.595174,
+            "image": "https://lh5.googleusercontent.com/p/AF1QipM2NUXvTPE6BbttHcXB6bGDTzH-cbocCRmi2aff=w1920-h1080-k-no",
+            "source": "https://goo.gl/maps/4TqUhqVH6V4zSNpq6",
+            "category": {
+                "id": 2,
+                "name": "Klinik"
+            },
+            "distance": 0.6
+        }
+    ],
+    "status": "berhasil"
+}

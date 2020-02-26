@@ -1,0 +1,55 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Apotek Appo Farma 2",
+            "address": "Pangeran, Kec. Banjarmasin Utara, Kota Banjarmasin, Kalimantan Selatan 70123",
+            "lat": -3.3020884,
+            "lng": 114.5892229,
+            "image": "https://lh5.googleusercontent.com/p/AF1QipPV3JcIgDX2QZ7MWOpiJ2zMYlxgmZFiLcZZoprr=w1920-h1080-k-no",
+            "source": "https://goo.gl/maps/Wu8sZXruM1EhLoT67",
+            "category": {
+                "id": 1,
+                "name": "Apotek"
+            },
+            "hours": [
+                {
+                    "day": "Senin",
+                    "open": "08:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "Selasa",
+                    "open": "08:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "Rabu",
+                    "open": "08:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "Kamis",
+                    "open": "08:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "Jumat",
+                    "open": "08:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "Sabtu",
+                    "open": "08:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "Minggu",
+                    "open": "-",
+                    "close": "-"
+                }
+            ]
+        }
+    ],
+    "status": "berhasil"
+}
